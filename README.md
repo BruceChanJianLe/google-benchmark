@@ -2,6 +2,8 @@
 
 This repository is me trying to use google-benchmark :D
 
+If you are looking for a template cpp project with google benchmark, check [this](https://github.com/BruceChanJianLe/cpp-benchmark) out!
+
 For more details, please visit the office github repo (https://github.com/google/benchmark).
 
 ## Installing
